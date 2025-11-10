@@ -37,9 +37,9 @@
 /NOIMPLIB
 /NOEXP
 /NATVIS:"../Plugins/Runtime/StateTree/Intermediate/Build/Win64/x64/UnrealEditor/Development/StateTreeModule/StateTree.natvis"
-"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.obj"
-"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Default.rc2.res"
+"C:/Users/Student/Desktop/Cita417Assignment3/MyProject/Intermediate/Build/Win64/x64/MyProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Student/Desktop/Cita417Assignment3/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Module.MyProject.cpp.obj"
+"C:/Users/Student/Desktop/Cita417Assignment3/MyProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/MyProject/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/AIModule/UnrealEditor-AIModule.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/UMG/UnrealEditor-UMG.lib"
@@ -75,6 +75,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Binaries/Win64/UnrealEditor-MyProject.dll"
-/PDB:"C:/Users/Student/Desktop/JesseMcDanielCita417Assignment2/MyProject/Binaries/Win64/UnrealEditor-MyProject.pdb"
+/OUT:"C:/Users/Student/Desktop/Cita417Assignment3/MyProject/Binaries/Win64/UnrealEditor-MyProject.dll"
+/PDB:"C:/Users/Student/Desktop/Cita417Assignment3/MyProject/Binaries/Win64/UnrealEditor-MyProject.pdb"
 /ignore:4078
