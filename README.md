@@ -1,5 +1,5 @@
 # JesseMcDanielCita417Assignment4
-Video Demo Link - https://www.youtube.com/watch?v=OYVDVUsZme8
+Video Demo Link - https://www.youtube.com/watch?v=0b9UMy1plvk
 
 For this lab, I made a system where enemies spawn in the level when the game starts. I made a spawner that puts enemies in the map one at a time over a few seconds. When the enemies touch the player, the player loses health. I also added some damage cubes in the level that hurt the player if they run into them. I kept track of how many enemies spawned using a number variable called EnemiesSpawned so I can see when all of them are gone. The game has a basic win/lose system: the wave ends when all enemies are defeated, or the player dies if health reaches zero. I didn’t make a fancy HUD, but you can see health going down when damage happens. I also recorded a video of the whole encounter so you can watch it start to finish. This setup is simple, but it shows that spawning, damage, and waves all work together in the level.
 
