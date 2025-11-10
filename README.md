@@ -1,7 +1,9 @@
 # JesseMcDanielCita417Assignment4
 Video Demo Link - https://www.youtube.com/watch?v=0b9UMy1plvk
 
-For this lab, I made a system where enemies spawn in the level when the game starts. I made a spawner that puts enemies in the map one at a time over a few seconds. When the enemies touch the player, the player loses health. I also added some damage cubes in the level that hurt the player if they run into them. I kept track of how many enemies spawned using a number variable called EnemiesSpawned so I can see when all of them are gone. The game has a basic win/lose system: the wave ends when all enemies are defeated, or the player dies if health reaches zero. I didn’t make a fancy HUD, but you can see health going down when damage happens. I also recorded a video of the whole encounter so you can watch it start to finish. This setup is simple, but it shows that spawning, damage, and waves all work together in the level.
+Mission Summary
+
+For the first part, I made my player move better. I added jump and some running animations so it feels more like a real game. The player can move around, jump, and it looks nice when they run instead of just sliding around. This made it more fun to play and test stuff.For the second part, I made a short mission. The player goes to one cube, and a message pops up telling them to go to another cube. When you reach the second cube and press E, a fire starts to show that you finished the mission. I also made HUD text that changes so you know what to do next. The triggers only happen once and everything works fine.It’s a short mission but shows objectives, triggers, animations, and HUD text. You can move, jump, and finish the goal fast. It’s simple but complete enough to play from start to finish.
 
 
 # Feature Check List
