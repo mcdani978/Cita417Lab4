@@ -1,11 +1,11 @@
 # JesseMcDanielCita417Assignment4
 Video Demo Link - https://www.youtube.com/watch?v=0b9UMy1plvk
 
-Mission Summary
+# Mission Summary
 
 For the first part, I made my player move better. I added jump and some running animations so it feels more like a real game. The player can move around, jump, and it looks nice when they run instead of just sliding around. This made it more fun to play and test stuff.For the second part, I made a short mission. The player goes to one cube, and a message pops up telling them to go to another cube. When you reach the second cube and press E, a fire starts to show that you finished the mission. I also made HUD text that changes so you know what to do next. The triggers only happen once and everything works fine.It’s a short mission but shows objectives, triggers, animations, and HUD text. You can move, jump, and finish the goal fast. It’s simple but complete enough to play from start to finish.
 
-Feature Check List (Lab 4)
+# Feature Check List (Lab 4)
 
 I made two cubes that act as mission objectives.
 
@@ -21,7 +21,7 @@ The triggers only happen once so nothing repeats.
 
 The mission can be completed start to finish in under a minute.
 
-Directions
+# Directions
 
 Use WASD to move and the Mouse to look around.
 
